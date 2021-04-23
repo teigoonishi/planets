@@ -1,6 +1,6 @@
 Hello Mars!
 
-This is aother change in my file.
+This is the change made by the second copy
 
 Mars has helicopter flying now.
 
